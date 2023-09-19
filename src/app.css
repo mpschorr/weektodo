@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Poppins';
+}
+
+input[type=checkbox]:checked {
+    background-image: none;
+}
